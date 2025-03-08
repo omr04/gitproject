@@ -1,0 +1,2 @@
+git init-> giti ilk defa bulunulan klasörde oluşturmak için kullanılır.
+Git reposunu oluşturmamızı sağlar.
